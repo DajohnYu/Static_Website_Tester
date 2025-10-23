@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p001",
+    "title": "海景豪华公寓",
+    "address": "Seaview Rd, Downtown",
+    "price": 1250000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "description": "面向大海的宽敞客厅，阳台视野绝佳，步行可达海滩和购物街。",
+    "image": "https://images.unsplash.com/photo-1560184897-6b2b8f1a0b3a?w=800&q=60"
+  },
+  {
+    "id": "p002",
+    "title": "城市中心两居室",
+    "address": "Main St, Downtown",
+    "price": 650000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "description": "位于市中心，交通便利，适合上班族及小家庭。",
+    "image": "https://images.unsplash.com/photo-1572120360610-d971b9b9a3b1?w=800&q=60"
+  },
+  {
+    "id": "p003",
+    "title": "郊区别墅带花园",
+    "address": "Greenway, Suburb",
+    "price": 980000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "description": "安静社区，带私家花园和车库，适合追求生活品质的家庭。",
+    "image": "https://images.unsplash.com/photo-1505691723518-36a76f7b8f0b?w=800&q=60"
+  },
+  {
+    "id": "p004",
+    "title": "现代单间公寓",
+    "address": "River Blvd, Midtown",
+    "price": 320000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "description": "紧凑型现代公寓，装修精致，适合单身人士或学生。",
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=60"
+  }
+]
